@@ -6,55 +6,41 @@
 
 Code • Design • Projects
 </div>
-<hr style="border: 1px solid #30363d; margin-bottom: 20px;" />
-<h3 align="center">Connect with me:</h3>
+
+
+<hr style="border: 1px solid #30363d; margin-bottom: 25px;" />
+
+<h3 align="center">Connect with me</h3>
+
 <p align="center">
-  <a href="https://fb.com/fajin%20jozsef" target="_blank" style="margin: 0 10px;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Jozsef Fajin" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/jozseffain" target="_blank" style="margin: 0 10px;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jozseffain" height="30" width="40" />
+  <a href="https://instagram.com/jozseffain">
+    <img src="https://img.shields.io/badge/Instagram-161616?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
 <br />
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Languages & Tools</h3>
+
 <p align="center">
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer" style="margin: 5px;">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" style="margin: 5px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer" style="margin: 5px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer" style="margin: 5px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="margin: 5px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer" style="margin: 5px;">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style="margin: 5px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="margin: 5px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="margin: 5px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer" style="margin: 5px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer" style="margin: 5px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer" style="margin: 5px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
+
+  <img src="https://img.shields.io/badge/HTML5-161616?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-161616?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-161616?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-161616?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-161616?style=for-the-badge&logo=mysql&logoColor=white" />
+
+  <br />
+
+  <img src="https://img.shields.io/badge/React-161616?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-161616?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-161616?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-161616?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-161616?style=for-the-badge&logo=figma&logoColor=white" />
+
+  <br />
+
+  <img src="https://img.shields.io/badge/Bootstrap-161616?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-161616?style=for-the-badge&logo=arduino&logoColor=white" />
+
 </p>
