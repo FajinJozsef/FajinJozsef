@@ -1,22 +1,27 @@
 <div align="center">
-  
-## Welcome to my profile ✨ 
+
+## Welcome to my profile ✨
 
 <img width="957" height="298" alt="ban" src="https://github.com/user-attachments/assets/3496fb91-85dc-4272-9152-55bfdf849c59" />
 
 Code • Design • Projects
-</div>
 
+</div>
 
 <hr style="border: 1px solid #30363d; margin-bottom: 25px;" />
 
 <h3 align="center">Connect with me</h3>
 
-
-  <img src="https://img.shields.io/badge/Bootstrap-161616?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arduino-161616?style=for-the-badge&logo=arduino&logoColor=white" />
-
+<p align="center">
+  <a href="https://instagram.com/jozseffain">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </p>
+
+<br />
+
+<h3 align="center">Languages & Tools</h3>
+
 <p align="center">
 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
