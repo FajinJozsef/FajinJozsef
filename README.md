@@ -6,11 +6,11 @@
 
 Code • Design • Projects
 </div>
-
+<hr style="border: 1px solid #30363d; margin-bottom: 20px;" />
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://fb.com/fajin%20jozsef" target="_blank" style="margin: 0 10px;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fajin józsef" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Jozsef Fajin" height="30" width="40" />
   </a>
   <a href="https://instagram.com/jozseffain" target="_blank" style="margin: 0 10px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jozseffain" height="30" width="40" />
