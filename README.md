@@ -7,7 +7,7 @@ Code • Design • Projects
 
 ---
 
-## 👋 About me
+## 👋🏼 About me
 
 Welcome! I'm József, a student studying IT.
 I'm interested in building websites and creative design, and I strive to turn every idea into a well-thought-out, working solution.
@@ -54,6 +54,6 @@ I'm interested in building websites and creative design, and I strive to turn ev
 
 ---
 
-## 🚀 Projects
+## 🗂️ Projects
 
 More projects coming soon. 🔧
