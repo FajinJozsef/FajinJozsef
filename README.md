@@ -1,6 +1,7 @@
+
 <div align="center">
 <b>Welcome to my profile ✨</b><br><br>
-<img width="957" height="298" alt="ban" src="https://github.com/user-attachments/assets/3496fb91-85dc-4272-9152-55bfdf849c59" /><br>
+<img width="957" height="298" alt="ban" src="https://github.com/user-attachments/assets/11c93aea-7f3f-4149-b493-872a062f3025" /><br>
 Code • Design • Projects
 </div>
 
